@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Loan Default Prediction and Risk Analysis
 
 
 ## Table of Contents
@@ -36,9 +36,9 @@
 
 ## Acknowledgements
 - This project was inspired by the need to understand risk analytics in lending.
-- The dataset used in this project was provided by source.
+- The dataset used in this project was provided by Loan Dataset by Upgrad.
 - This project was based on principles of exploratory data analysis and risk analytics.
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://learn.upgrad.com/course/5798/segment/48355/289265/880179/4399228).
 
 
 ## Contact
